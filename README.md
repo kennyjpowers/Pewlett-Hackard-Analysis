@@ -5,13 +5,13 @@ Pewlett-Hackard is concerned about how many of their employees may be retiring s
 
 ## Results
 - Employees Near Retirement:
-  ![title counts](Resources/title_counts.png)
+  - ![title counts](Resources/title_counts.png)
   - There are 90,398 positions held by near retirement age employees that may need to be filled soon. 
   - The Senior Engineer and Senior Staff are the positions held by the most employees near retirment age.
   - There are only 2 Managers near retirement.
   - Engineers account for over half of the retirment age employees with 45,397 employees. 
 - Eligible Mentors:
-  ![mentor titles](Resources/mentor_titles.png)
+  - ![mentor titles](Resources/mentor_titles.png)
   - There are 1,549 available mentors based on the criteria provided.
   - The top 2 positions held by the eligible mentors match those of the retiring employees, Senior Staff and Senior Engineer.
   - There are no eligible Manager mentors.
