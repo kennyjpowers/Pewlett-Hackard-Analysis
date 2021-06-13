@@ -32,5 +32,5 @@ SELECT COUNT(*) FROM mentorship_eligible;
 ![total_mentors](Resources/total_mentor.png)
 By the given criteria there are only 1,549 employees elibile for the mentorship program.
 
-In order to mentor 90,000 employees to take the place of all those retiring, the 1549 eligible mentors would need to mentor almost 60 employees each. This does not seem reasonable. I suggest expanding the criteria for mentors to reasonably mentor enough replacements for those retiring. 
+In order to mentor 90,000 employees to take the place of all those retiring, the 1,549 eligible mentors would need to mentor almost 60 employees each. This does not seem reasonable. I suggest expanding the criteria for mentors to reasonably mentor enough replacements for those retiring. 
 
